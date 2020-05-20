@@ -1,8 +1,8 @@
 #include "globalinclude.h"
 #include <tchar.h> 
-#include "drawSinx.h"
-#include "drawBresenHamLine.h"
-#include "drawCircleMidPoint.h"
+#include "Chapter6/drawSinx.h"
+#include "Chapter6/drawBresenHamLine.h"
+#include "Chapter6/drawCircleMidPoint.h"
 #pragma warning(disable:4996)
 
 HDC hdc = NULL;

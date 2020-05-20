@@ -64,18 +64,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="drawBresenHamLine.cpp" />
-    <ClCompile Include="drawCircleMidPoint.cpp" />
-    <ClCompile Include="drawCircleMidPoint_Parallel.cpp" />
-    <ClCompile Include="drawSinx.cpp" />
+    <ClCompile Include="Chapter6\drawBresenHamLine.cpp" />
+    <ClCompile Include="Chapter6\drawCircleMidPoint.cpp" />
+    <ClCompile Include="Chapter6\drawCircleMidPoint_Parallel.cpp" />
+    <ClCompile Include="Chapter6\drawSinx.cpp" />
     <ClCompile Include="testline.cpp" />
     <ClCompile Include="winmain.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="drawBresenHamLine.h" />
-    <ClInclude Include="drawCircleMidPoint.h" />
-    <ClInclude Include="drawCircleMidPoint_Parallel.h" />
-    <ClInclude Include="drawSinx.h" />
+    <ClInclude Include="Chapter6\drawBresenHamLine.h" />
+    <ClInclude Include="Chapter6\drawCircleMidPoint.h" />
+    <ClInclude Include="Chapter6\drawCircleMidPoint_Parallel.h" />
+    <ClInclude Include="Chapter6\drawSinx.h" />
     <ClInclude Include="globalinclude.h" />
     <ClInclude Include="globaltypes.h" />
   </ItemGroup>

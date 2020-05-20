@@ -1,5 +1,5 @@
 #pragma once
-#include "globaltypes.h"
+#include "..\globaltypes.h"
 //BresenHam»­Ïß
 class drawBresenHamLine
 {

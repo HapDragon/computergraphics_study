@@ -1,25 +1,9 @@
-﻿生成启动时间为 2020/5/20 14:21:12。
+﻿生成启动时间为 2020/5/20 17:02:06。
      1>项目“E:\workspace\study\computer graphics\testpro\testpro\testpro.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt drawBresenHamLine.cpp drawCircleMidPoint.cpp drawCircleMidPoint_Parallel.cpp drawSinx.cpp winmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Chapter6\drawCircleMidPoint.cpp winmain.cpp
          winmain.cpp
-         正在生成代码...
-         正在编译...
-         drawSinx.cpp
-     1>e:\workspace\study\computer graphics\testpro\testpro\drawsinx.cpp(45): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-     1>e:\workspace\study\computer graphics\testpro\testpro\drawsinx.cpp(56): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-     1>e:\workspace\study\computer graphics\testpro\testpro\drawsinx.cpp(64): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-     1>e:\workspace\study\computer graphics\testpro\testpro\drawsinx.cpp(76): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-     1>e:\workspace\study\computer graphics\testpro\testpro\drawsinx.cpp(77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-     1>e:\workspace\study\computer graphics\testpro\testpro\drawsinx.cpp(78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-     1>e:\workspace\study\computer graphics\testpro\testpro\drawsinx.cpp(79): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-     1>e:\workspace\study\computer graphics\testpro\testpro\drawsinx.cpp(87): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-     1>e:\workspace\study\computer graphics\testpro\testpro\drawsinx.cpp(88): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-     1>e:\workspace\study\computer graphics\testpro\testpro\drawsinx.cpp(89): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-     1>e:\workspace\study\computer graphics\testpro\testpro\drawsinx.cpp(90): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-         drawCircleMidPoint_Parallel.cpp
          drawCircleMidPoint.cpp
-         drawBresenHamLine.cpp
          正在生成代码...
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\workspace\study\computer graphics\testpro\Debug\testpro.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\workspace\study\computer graphics\testpro\Debug\testpro.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\workspace\study\computer graphics\testpro\Debug\testpro.lib" /MACHINE:X86 Debug\drawBresenHamLine.obj
@@ -33,4 +17,4 @@
 
 生成成功。
 
-已用时间 00:00:03.36
+已用时间 00:00:01.66

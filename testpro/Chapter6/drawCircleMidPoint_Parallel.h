@@ -1,5 +1,5 @@
 #pragma once
-#include "globaltypes.h"
+#include "..\globaltypes.h"
 //并行中点画圆
 class drawCircleMidPoint_Parallel
 {

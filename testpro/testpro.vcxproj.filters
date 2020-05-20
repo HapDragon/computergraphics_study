@@ -21,36 +21,36 @@
     <ClCompile Include="winmain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="drawSinx.cpp">
+    <ClCompile Include="Chapter6\drawBresenHamLine.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="drawBresenHamLine.cpp">
+    <ClCompile Include="Chapter6\drawCircleMidPoint.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="drawCircleMidPoint.cpp">
+    <ClCompile Include="Chapter6\drawCircleMidPoint_Parallel.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="drawCircleMidPoint_Parallel.cpp">
+    <ClCompile Include="Chapter6\drawSinx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="drawSinx.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="globaltypes.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="globalinclude.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="drawBresenHamLine.h">
+    <ClInclude Include="Chapter6\drawBresenHamLine.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="drawCircleMidPoint.h">
+    <ClInclude Include="Chapter6\drawCircleMidPoint.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="drawCircleMidPoint_Parallel.h">
+    <ClInclude Include="Chapter6\drawCircleMidPoint_Parallel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter6\drawSinx.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

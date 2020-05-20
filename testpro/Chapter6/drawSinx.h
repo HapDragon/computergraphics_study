@@ -1,5 +1,5 @@
 #pragma once
-#include "globaltypes.h"
+#include "..\globaltypes.h"
 class drawSinx
 {
 public:
